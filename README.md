@@ -141,7 +141,7 @@ streamlit run main.py
 
 ## Team
 
-* **Nidhi** — Speech-to-Text Pipeline
+* **Nidhi** — Speech-to-Text Pipeline and UI
 * **Gaurav** — LLM & Task Extraction
 * **Prarthana** — Frontend 
 
